@@ -1,0 +1,26 @@
+.ReactCollapse--collapse {
+    transition: height 500ms;
+}
+.championPhoto {
+    display: inline;
+    max-width: 10%;
+    max-height: 10%;
+    /* padding-left: 5px */
+    margin-left: 5px;
+    border-radius: 10%;
+}
+.championPhoto.c1 {
+    border: solid 2px #b5b5b5;
+}
+.championPhoto.c2 {
+    border: solid 2px #14cf11;
+}
+.championPhoto.c3 {
+    border: solid 2px #0e2ae3;
+}
+.championPhoto.c4 {
+    border: solid 2px #c211cf;
+}
+.championPhoto.c5 {
+    border: solid 2px #b8a31c;
+}
